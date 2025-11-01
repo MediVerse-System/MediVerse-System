@@ -33,7 +33,7 @@
 |------|------|----------|
 | Mahmoud Khalid Alkodousy | AI Engineer | [LinkedIn](https://www.linkedin.com/in/mahmoud-khalid-8b4ab2309) |
 | Saad Tamer Saad | AI Engineer | [LinkedIn](https://www.linkedin.com/in/saad-tamer1/) |
-| Nada ElSalawy | FrontEnd(React) | [LinkedIn](https://www.linkedin.com/in/mahmoud-khalid-8b4ab2309) |
+| Nada ElSalawy | FrontEnd(React) | [LinkedIn](https://www.linkedin.com/in/nada-elsalawy-221808250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 
 | [Add teammates] | [Role] | [LinkedIn or GitHub] |
 
