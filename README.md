@@ -17,10 +17,10 @@
 ## 🧠 Tech Stack
 | Layer | Technologies |
 |-------|---------------|
-| **Ui/Ux** | Streamlit / React |
-| **Frontend** | Streamlit / React |
-| **Backend** | FastAPI / Flask |
-| **Database** | PostgreSQL / Supabase |
+| **Ui/Ux** | Figma |
+| **Frontend** | React |
+| **Backend** | FastAPI |
+| **Database** | Supabase |
 | **ML/DL Models** | PyTorch, Scikit-learn, TensorFlow |
 | **Vision & Sensors** | OpenCV, MediaPipe, ECG/PPG |
 | **Application** | Flutter / Firebase |
